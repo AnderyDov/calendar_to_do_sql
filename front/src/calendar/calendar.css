@@ -1,0 +1,9 @@
+.calendar {
+  background: rgb(208, 200, 255);
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+}

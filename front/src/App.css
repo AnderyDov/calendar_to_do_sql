@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Macondo", cursive;
+}
+.App {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  overflow: visible;
+  transition: all 3s ease-in;
+}
+
+@media (max-width: 400px) {
+  .App {
+    flex-direction: column;
+  }
+}

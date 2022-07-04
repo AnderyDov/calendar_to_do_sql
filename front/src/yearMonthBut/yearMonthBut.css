@@ -1,0 +1,11 @@
+.hed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hed span {
+  padding: 10px;
+  font-size: 27px;
+  font-weight: bold;
+  cursor: pointer;
+}
